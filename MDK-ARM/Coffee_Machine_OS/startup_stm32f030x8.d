@@ -1,0 +1,1 @@
+coffee_machine_os\startup_stm32f030x8.o: startup_stm32f030x8.s
